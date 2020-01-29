@@ -1,0 +1,9 @@
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\bin\Debug\MI_PROYECTO1.exe.config
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\bin\Debug\MI_PROYECTO1.exe
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\bin\Debug\MI_PROYECTO1.pdb
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\obj\Debug\MI_PROYECTO1.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\obj\Debug\MI_PROYECTO1.Form1.resources
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\obj\Debug\MI_PROYECTO1.Properties.Resources.resources
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\obj\Debug\MI_PROYECTO1.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\obj\Debug\MI_PROYECTO1.exe
+C:\Users\Estudiante\Documents\programacion II\MI_PROYECTO1\MI_PROYECTO1\obj\Debug\MI_PROYECTO1.pdb
